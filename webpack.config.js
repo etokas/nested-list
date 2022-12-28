@@ -28,7 +28,7 @@ module.exports = {
     extensions: [ '.js' ],
   },
   output: {
-    filename: 'nested-list.js',
+    filename: 'bundlde.js',
     path: path.resolve(__dirname, 'dist'),
     library: 'NestedList',
     libraryTarget: 'umd',
